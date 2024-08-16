@@ -4,6 +4,8 @@ import os
 import random
 
 while True:
+
+    # List of choices
     choices = ["rock","paper","scissors"]
 
     computer = random.choice(choices)
